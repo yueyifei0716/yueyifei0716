@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently studying in UNNC
+- 🌱 I’m interested in NLP and CV
+- 👯 I’m currently working on a Virtual Human project and News keyword detection
+- 📫 How to reach me: therealyueyifei@outlook.com
+- 🖥 My personal website: [VincentYue716.github.io](https://vincentyue716.github.io/)
