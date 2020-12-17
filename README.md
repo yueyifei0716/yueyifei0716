@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m currently working on a Virtual Human project and News keyword detection
 - 📫 How to reach me: therealyueyifei@outlook.com
 - 🖥 My personal website: [VincentYue716.github.io](https://vincentyue716.github.io/)
+
+
+[![Yifei YUE's github stats](https://github-readme-stats.vercel.app/api?username=VincentYue716)](https://github.com/anuraghazra/github-readme-stats)
