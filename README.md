@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in UNNC
 - 🌱 I’m interested in NLP and CV
-- 👯 I’m currently working on a Virtual Human project and News keyword detection
 - 📫 How to reach me: vincentyueyifei@gmail.com
 - 🖥 My personal website: [yueyifei0716.github.io](https://yueyifei0716.github.io/)
 
