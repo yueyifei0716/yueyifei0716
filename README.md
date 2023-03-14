@@ -23,6 +23,7 @@ I am passionate about the fields of natural language processing, computer vision
 
 <!-- ![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=yueyifei0716&repo=yueyifei0716) -->
 ![](https://komarev.com/ghpvc/?username=yueyifei0716&color=blueviolet)
+![](https://img.shields.io/github/contributors/yueyifei0716/yueyifei0716?color=blueviolet)
 <!-- ![](https://img.shields.io/github/stars/yueyifei0716/yueyifei0716?color=blueviolet)
 ![](https://img.shields.io/github/forks/yueyifei0716/yueyifei0716?color=blueviolet) -->
-![](https://img.shields.io/github/contributors/yueyifei0716/yueyifei0716?color=blueviolet)
+
