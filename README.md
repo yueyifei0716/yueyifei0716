@@ -21,7 +21,7 @@ I am passionate about the fields of natural language processing, computer vision
 
 ![Most Used Language](https://readme-stats.clckblog.space/api/top-langs?username=yueyifei0716&show_icons=true&theme=radical&langs_count=10&layout=compact)
 
-![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=yueyifei0716&repo=yueyifei0716)
+<!-- ![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=yueyifei0716&repo=yueyifei0716) -->
 ![](https://komarev.com/ghpvc/?username=yueyifei0716&color=blueviolet)
 <!-- ![](https://img.shields.io/github/stars/yueyifei0716/yueyifei0716?color=blueviolet)
 ![](https://img.shields.io/github/forks/yueyifei0716/yueyifei0716?color=blueviolet) -->
