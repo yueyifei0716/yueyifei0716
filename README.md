@@ -1,26 +1,28 @@
 ### Hi there 👋
 
-<!--
-**yueyifei0716/yueyifei0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yifei (Vincent) Yue, a final-year undergraduate student at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Faculty of Engineering. I am currently studying as an exchange student at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="GIF" src="https://media.giphy.com/media/gJSJgg6wE32JG/giphy.gif" />
 
+<br>
 
-- 🔭 I’m currently studying in UNSW Sydney, National University of Singapore exchange students in 2023
-- 🌱 I’m interested in NLP and CV
-- 📫 How to reach me: vincentyueyifei@gmail.com
-- 🖥 My personal website: [yueyifei.xyz](https://yueyifei.xyz/)
+I am passionate about the fields of natural language processing, computer vision, and machine learning. In natural language processing, I am particularly interested in topic modeling, sentiment analysis, and word embedding techniques. For computer vision, I have a strong interest in image segmentation, image classification, and face and gesture recognition. My enthusiasm for these research areas stems from my desire to explore and understand the capabilities of machine intelligence in processing and interpreting complex data, as well as their potential applications in various fields.
 
-<!--
-[![Yifei YUE's github stats](https://github-readme-stats.vercel.app/api?username=yueyifei0716)](https://github.com/anuraghazra/github-readme-stats)
--->
+📫 How to reach me: [vincentyueyifei@gmail.com](mailto:vincentyueyifei@gmail.com).
+
+🖥 My personal website: [yueyifei.xyz](https://yueyifei.xyz/)
+
+![Snake Game](https://raw.githubusercontent.com/yueyifei0716/yueyifei0716/output/github-snake.svg)
+
+![Yifei's GitHub stats](https://readme-stats.clckblog.space/api?username=yueyifei0716&theme=tokyonight&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yueyifei0716&include_all_commits=true&hide_border=true&theme=dark)
+
+![Most Used Language](https://readme-stats.clckblog.space/api/top-langs?username=yueyifei0716&show_icons=true&theme=radical&langs_count=10&layout=compact)
+
+![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=yueyifei0716&repo=yueyifei0716)
+![](https://komarev.com/ghpvc/?username=yueyifei0716&color=blueviolet)
+![](https://img.shields.io/github/stars/yueyifei0716/yueyifei0716?color=blueviolet)
+![](https://img.shields.io/github/forks/yueyifei0716/yueyifei0716?color=blueviolet)
+![](https://img.shields.io/github/contributors/yueyifei0716/yueyifei0716?color=blueviolet)
