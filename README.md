@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yifei (Vincent) Yue, a final-year undergraduate student at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Faculty of Engineering. I am currently studying as an exchange student at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing.
+I am currently an Honours Year student at the [University of Sydney (USYD)](https://www.sydney.edu.au/), within the School of Computer Science, Faculty of Engineering. Prior to USYD, I completed my Bachelor's degree at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Faculty of Engineering. During my time there, I had the opportunity to study as an exchange student at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing. Before I transferred to UNSW, I finished 3 years of undergraduate study at the [University of Nottingham (UoN)](https://www.nottingham.ac.uk/), Department of Computer Science.
 
 <br>
 
