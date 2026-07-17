@@ -1,29 +1,26 @@
-### Hi there 👋
+# Yifei (Vincent) Yue
 
-I am currently an Honours Year student at the [University of Sydney (USYD)](https://www.sydney.edu.au/), within the School of Computer Science, Faculty of Engineering. Prior to USYD, I completed my Bachelor's degree at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Faculty of Engineering. During my time there, I had the opportunity to study as an exchange student at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), School of Computing. Before I transferred to UNSW, I finished 3 years of undergraduate study at the [University of Nottingham (UoN)](https://www.nottingham.ac.uk/), Department of Computer Science.
+Full-stack AI engineer and investment researcher working on agentic systems, AI-native research products, and quantitative research infrastructure.
 
-<br>
+I enjoy problems that sit between engineering and research: the product must work in production, while its evidence, assumptions, and failure modes remain inspectable.
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/gJSJgg6wE32JG/giphy.gif" />
+## Current focus
 
-<br>
+- Designing long-running research agents with source provenance, persistent state, targeted reruns, and human review.
+- Building full-stack AI products that connect model workflows to real users, data, and production operations.
+- Developing point-in-time financial data and execution-aware research systems with explicit leakage and deployment gates.
 
-I am passionate about the fields of natural language processing, computer vision, and machine learning. In natural language processing, I am particularly interested in topic modeling, sentiment analysis, and word embedding techniques. For computer vision, I have a strong interest in image segmentation, image classification, and face and gesture recognition. My enthusiasm for these research areas stems from my desire to explore and understand the capabilities of machine intelligence in processing and interpreting complex data, as well as their potential applications in various fields.
+## Selected work
 
-📫 How to reach me: [vincentyueyifei@gmail.com](mailto:vincentyueyifei@gmail.com).
+- **[N0S](https://n0s.ai/)** — conceived and shipped an AI-native public-equity research platform from zero to production as a founding full-stack engineer and investment researcher.
+- **Cyber Partner AI** — built character-consistent dialogue, long-term memory, real-time audio, safety moderation, and motion control for embodied AI systems.
+- **A-share quantitative research** — built a point-in-time research warehouse, statistically gated factor pipeline, and order-level execution simulator; withheld deployment when risk and out-of-sample gates were not met.
 
-🖥 My personal website: [yueyifei.xyz](https://yueyifei.xyz/)
+## Research
 
-![Snake Game](https://raw.githubusercontent.com/yueyifei0716/yueyifei0716/output/github-snake.svg)
+- **[Content-Aware Residual Asymmetric Convolution Network for Adaptive Mitochondria Segmentation](https://link.springer.com/chapter/10.1007/978-981-95-4100-3_25)** — first author, ICONIP 2025.
+- **[Utilizing Social Media Attributes for Enhanced Keyword Detection](https://arxiv.org/abs/2306.07978)** — engagement-aware topic discovery, presented at the Sigma Xi Student Research Showcase.
 
-![Yifei's GitHub stats](https://readme-stats.clckblog.space/api?username=yueyifei0716&theme=tokyonight&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yueyifei0716&include_all_commits=true&hide_border=true&theme=dark)
+## Connect
 
-![Most Used Language](https://readme-stats.clckblog.space/api/top-langs?username=yueyifei0716&show_icons=true&theme=radical&langs_count=10&layout=compact)
-
-<!-- ![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=yueyifei0716&repo=yueyifei0716) -->
-![](https://komarev.com/ghpvc/?username=yueyifei0716&color=blueviolet)
-![](https://img.shields.io/github/contributors/yueyifei0716/yueyifei0716?color=blueviolet)
-<!-- ![](https://img.shields.io/github/stars/yueyifei0716/yueyifei0716?color=blueviolet)
-![](https://img.shields.io/github/forks/yueyifei0716/yueyifei0716?color=blueviolet) -->
-
+[Website](https://yueyifei0716.github.io/) · [LinkedIn](https://www.linkedin.com/in/vinceybb/) · [Email](mailto:vincentyueyifei@gmail.com) · [CV](https://yueyifei0716.github.io/files/resume.pdf)
