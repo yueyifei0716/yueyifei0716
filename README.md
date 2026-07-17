@@ -23,4 +23,4 @@ I enjoy problems that sit between engineering and research: the product must wor
 
 ## Connect
 
-[Website](https://yueyifei.xyz/) · [LinkedIn](https://www.linkedin.com/in/vinceybb/) · [Email](mailto:vincentyueyifei@gmail.com) · [CV](https://yueyifei.xyz/files/resume.pdf)
+[Website](https://yueyifei0716.github.io/) · [LinkedIn](https://www.linkedin.com/in/vinceybb/) · [Email](mailto:vincentyueyifei@gmail.com) · [CV](https://yueyifei0716.github.io/files/resume.pdf)
