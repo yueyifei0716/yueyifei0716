@@ -1,6 +1,6 @@
 # Yifei (Vincent) Yue
 
-Full-stack AI engineer and investment researcher working on agentic systems, AI-native research products, and quantitative research infrastructure.
+Founding engineer building agentic systems, AI-native research products, and quantitative research infrastructure.
 
 I enjoy problems that sit between engineering and research: the product must work in production, while its evidence, assumptions, and failure modes remain inspectable.
 
@@ -12,7 +12,7 @@ I enjoy problems that sit between engineering and research: the product must wor
 
 ## Selected work
 
-- **[N0S](https://n0s.ai/)** — conceived and shipped an AI-native public-equity research platform from zero to production as a founding full-stack engineer and investment researcher.
+- **[N0S](https://n0s.ai/)** — conceived and shipped an AI-native public-equity research platform from zero to production as a founding engineer.
 - **Cyber Partner AI** — built character-consistent dialogue, long-term memory, real-time audio, safety moderation, and motion control for embodied AI systems.
 - **A-share quantitative research** — built a point-in-time research warehouse, statistically gated factor pipeline, and order-level execution simulator; withheld deployment when risk and out-of-sample gates were not met.
 
